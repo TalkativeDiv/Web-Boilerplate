@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<!--START:About-->
+## Web Boilerplate
 
-You can use the [editor on GitHub](https://github.com/TalkativeDiv/Web-Boilerplate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Web Boilerplate is a professional front-end template for building fast, robust, and responsive web apps or sites.
+<!--END:About-->
+<!--START:Features-->
+### Features
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Out of the box PWA Support
+- Good File structure
+- Fast
+- Out of the box Scripts
+- Free
+- Reliable
+- Open Source
+- Out of the box Styles
+<!--END:Features-->
+<!--START:Quick Start-->
+## Start
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TalkativeDiv/Web-Boilerplate/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Download a zip and extract it do a desired location. We recommend copying the Boilerplate folder for every new web project that you intend to use our boilerplate
+<!--END:Quick Start-->
+<!--START:Contributing-->
+## Contributing
+Anyone can contribute, as Code and Contributions have the MIT license
+<!--END:Contributing-->
