@@ -24,4 +24,4 @@ Download a zip and extract it do a desired location. We recommend copying the Bo
 <!--START:Contributing-->
 ## Contributing
 Anyone can contribute, as Code and Contributions have the MIT license
-<!--END:Contributing-->
+<!--END:Contributing--> 
