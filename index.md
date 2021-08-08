@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" > 
 <!--START:About-->
-## Web Boilerplate
+##  Web Boilerplate
 
 Web Boilerplate is a professional front-end template for building fast, robust, and responsive web apps or sites.
 <!--END:About-->
