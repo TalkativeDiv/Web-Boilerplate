@@ -8,8 +8,9 @@ fast, robust, and adaptable web apps or sites.
 ## 📎 Menu
 
 - 💡 [Features](#features)
+- 🏁 [Quick Start](#start)
 - 👨‍💻 [Contributing](#contributing)
-- [Quick Start](#start)
+- 💫 [License](#License)
 
 ## 💡 Features
 
@@ -22,23 +23,17 @@ fast, robust, and adaptable web apps or sites.
 * Open Source
 * Out of the box Styles
 
-
-## 💫 License
-
-- Code and Contributions have the **MIT License**
-
-
-## Start
+## 🏁 Start
 
 Download a zip and extract it do a desired location. We recommend copying the Boilerplate folder for every new web project that you intend to use our boilerplate
 
 
 ## 👨‍💻 Contributing
 
-Anyone can contribute, as this project is MIT Licensed. You can request a pull request under the Discustions tab.
+Anyone can contribute, as this project is MIT Licensed. 
 
 
 ## 💫 License
-Code and Contributions have the [MIT license](LICENSE.MD)
+Code and Contributions have the **[MIT license](LICENSE.MD)**
 
 
